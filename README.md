@@ -1,5 +1,7 @@
 # React + Vite
 
+Click [here](https://lenor-simple-todo.netlify.app/) to visit react-todo-local-storage website.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
